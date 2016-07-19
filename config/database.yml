@@ -15,7 +15,7 @@ development:
   encoding: unicode
   database: d99larfrg7vbcn
   pool: 5
-  host: ec2-54-221-245-174.compute-1.amazonaws.com
+  host: postgres://aqmduzszbpljws:sRG7WqaPrjd9dEjKPOONmLaXf6@ec2-54-221-245-174.compute-1.amazonaws.com:5432/d99larfrg7vbcn
   username: aqmduzszbpljws
   password: sRG7WqaPrjd9dEjKPOONmLaXf6
 
