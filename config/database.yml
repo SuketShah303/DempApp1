@@ -15,7 +15,7 @@ development:
   encoding: unicode
   database: d99larfrg7vbcn
   pool: 5
-  host: localhost
+  host: ec2-54-221-245-174.compute-1.amazonaws.com
   username: aqmduzszbpljws
   password: sRG7WqaPrjd9dEjKPOONmLaXf6
 
