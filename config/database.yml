@@ -16,7 +16,7 @@ development:
   database: d99larfrg7vbcn
   pool: 5
   host: ec2-54-221-245-174.compute-1.amazonaws.com
-  username: aqmduzszbpljws1111
+  username: aqmduzszbpljws
   password: sRG7WqaPrjd9dEjKPOONmLaXf6
 
 # Warning: The database defined as "test" will be erased and
